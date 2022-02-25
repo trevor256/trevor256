@@ -15,4 +15,4 @@ I’m interested in CG, Linux, JavaScript, and Cloud.
 <br/>
 
 
-💬   happy to help/talk [email](256trevor@protonmail.com)
+💬   happy to help/talk 
