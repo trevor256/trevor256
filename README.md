@@ -1,5 +1,5 @@
 I’m Trevor
-I’m interested in CG, Linux, JavaScript, and Cloud.
+I’m interested in Linux, JavaScript, Rust, and Cloud.
 
 
 <a href="https://twitter.com/trevbot256">
@@ -14,5 +14,4 @@ I’m interested in CG, Linux, JavaScript, and Cloud.
 <br/>
 <br/>
 
-
-💬   happy to help/talk 
+happy to help/talk 
