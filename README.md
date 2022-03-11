@@ -1,10 +1,10 @@
 # Hello I like Godot, Linux, Cloud, JavaScript, and Rust.
 
 <a href="https://www.npmjs.com/~trevor256">
-  <img align="left" alt="trevor256's Youtube" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="trevor256's NPM" width="25px" src="https://github.com/npm/logos/blob/master/npm%20square/n-64.png" />
 </a>
 <a href="https://www.npmjs.com/~trevor256">
-  <img align="left" alt="trevor256's Youtube" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="trevor256's crates.io" width="25px" src="https://github.com/rust-lang/crates.io/blob/master/public/assets/Cargo-Logo-Small.png" />
 </a>
 <a href="https://twitter.com/trevbot256">
   <img align="left" alt="trevor256's Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
