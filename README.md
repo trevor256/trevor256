@@ -1,4 +1,4 @@
-# Hello 
+# Hello I like Godot, Linux, JavaScript, Rust, and Cloud.
 <a href="https://twitter.com/trevbot256">
   <img align="left" alt="trevor256's Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -8,8 +8,12 @@
 <br/>
 <br/>
 
-I’m interested in Godot, Linux, JavaScript, Rust,and Cloud.
-<br/>
-<br/>
 
-happy to talk :triumph:
+| to-do | Doing | Finished |
+| --- | ----------- | ----------- |
+| tbot256 | erupt |  |
+| rusty | trevor256.com |  |
+
+
+
+>happy to talk :triumph:
