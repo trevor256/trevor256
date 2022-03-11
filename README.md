@@ -1,4 +1,11 @@
-# Hello I like Godot, Linux, JavaScript, Rust, and Cloud.
+# Hello I like Godot, Linux, Cloud, JavaScript, and Rust.
+
+<a href="https://www.npmjs.com/~trevor256">
+  <img align="left" alt="trevor256's Youtube" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
+<a href="https://www.npmjs.com/~trevor256">
+  <img align="left" alt="trevor256's Youtube" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
 <a href="https://twitter.com/trevbot256">
   <img align="left" alt="trevor256's Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
