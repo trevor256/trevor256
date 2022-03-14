@@ -1,4 +1,4 @@
-# Howdy I like Godot, Linux, Cloud, JavaScript, and Rust.
+# Howdy, I like Godot, Linux, Cloud, JavaScript, and Rust.
 
 
 <a href="https://hub.docker.com/u/trevor256">
