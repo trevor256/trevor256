@@ -22,7 +22,7 @@
 
 | to-do | Doing | Finished |
 | --- | ----------- | ----------- |
-| tbot256 | erupt |  |
+| tbot256 | erupt 0.1 |  |
 | rusty | trevor256.com |  |
 
 
