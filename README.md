@@ -1,6 +1,6 @@
 # Howdy, I like Godot, Linux <br/> Cloud, JavaScript, and Rust.
 
-links to other sites
+links to my other sites
 <br/>
 <a href="https://hub.docker.com/u/trevor256">
   <img align="left" alt="trevor256's Docker" width="25px" src="https://github.com/docker/docker.github.io/blob/master/images/engine.svg" />
