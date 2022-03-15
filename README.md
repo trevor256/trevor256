@@ -1,6 +1,7 @@
-# Howdy, I like Godot, Linux, Cloud, JavaScript, and Rust.
+# Howdy, I like Godot, Linux <br/> Cloud, JavaScript, and Rust.
 
-
+links to other sites
+<br/>
 <a href="https://hub.docker.com/u/trevor256">
   <img align="left" alt="trevor256's Docker" width="25px" src="https://github.com/docker/docker.github.io/blob/master/images/engine.svg" />
 </a>
@@ -19,8 +20,8 @@
 <br/>
 <br/>
 
-
-| to-do | Doing | Finished |
+# Schedule
+| To-Do | Doing | Finished |
 | --- | ----------- | ----------- |
 | tbot256 | erupt 0.1 |  |
 | rusty | trevor256.com |  |
