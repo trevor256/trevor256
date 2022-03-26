@@ -1,4 +1,4 @@
-links to other repositories and social accounts used
+links to other repositories and social accounts
 <br/>
 <a href="https://hub.docker.com/u/trevor256">
   <img align="left" alt="trevor256's Docker" width="25px" src="https://github.com/docker/docker.github.io/blob/master/images/engine.svg" />
