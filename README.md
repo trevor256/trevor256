@@ -1,4 +1,4 @@
-links to other repos
+links to other repositories used
 <br/>
 <br/>
 <a href="https://hub.docker.com/u/trevor256">
@@ -14,6 +14,5 @@ links to other repos
   <img align="left" alt="trevor256's Youtube" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <br/>
-<br/>
 
-<a href="https://github.com/trevor256"  align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevor256&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=3333&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a>
+<a href="https://github.com/trevor256"  align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevor256&langs_count=3&title_color=eeeeed&text_color=ffffff&icon_color=3382ed&bg_color=3333&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a>
