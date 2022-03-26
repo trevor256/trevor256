@@ -17,13 +17,6 @@ links to my other sites
 <br/>
 <br/>
 
-# Schedule
-| To-Do | Doing | Finished |
-| --- | ----------- | ----------- |
-| tbot256 | erupt 0.1 |  |
-| rusty | trevor256.com |  |
-
-
 <a href="https://github.com/trevor256"  align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevor256&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a>
 
 
