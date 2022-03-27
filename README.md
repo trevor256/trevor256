@@ -14,4 +14,4 @@ links to other repositories and social accounts
 </a>
 <br/>
 
-<a href="https://github.com/trevor256"  align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevor256&langs_count=4&title_color=eeeeed&text_color=ffffff&icon_color=3382ed&bg_color=3333&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a>
+<a href="https://github.com/trevor256"  align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevor256&langs_count=5&title_color=eeeeed&text_color=ffffff&icon_color=3382ed&bg_color=3333&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a>
