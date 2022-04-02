@@ -1,4 +1,4 @@
-<h4 align="center">links to other repositories and social accounts</h4>
+<h3 align="center">other repositories and social accounts</h3>
 
 
 <div align="center">
