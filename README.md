@@ -18,10 +18,6 @@
 <a href="https://www.youtube.com/channel/UC7U47K09nNH-KX7-v4bd-kw">
   <img alt="trevor256's Youtube" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-  &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/trevbot256">
-  <img alt="trevor256's Youtube" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
  
   <br/>
 <br/>
