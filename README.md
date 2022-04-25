@@ -2,15 +2,15 @@
 <div align="center">
   
 <a href="https://www.npmjs.com/~trevor256">
-  <img alt="trevor256's NPM" width="40px" src="https://github.com/npm/logos/blob/master/npm%20square/n-64.png"/>     
+  <img alt="trevor256's NPM" src="https://raw.githubusercontent.com/trevor256/trevor256/main/npm.svg"/>     
 </a>
   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UC7U47K09nNH-KX7-v4bd-kw">
-  <img alt="trevor256's Youtube" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img alt="trevor256's Youtube" src="https://raw.githubusercontent.com/trevor256/trevor256/main/youtube.svg" />
 </a>
   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UC7U47K09nNH-KX7-v4bd-kw">
-  <img alt="trevor256's Youtube" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+<a href="https://twitter.com/trevbot256">
+  <img alt="trevor256's Youtube" src="https://raw.githubusercontent.com/trevor256/trevor256/main/twitter.svg" />
 </a>
   <br/>
 <br/>
