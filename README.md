@@ -14,7 +14,7 @@
 </a>
   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.artstation.com/trevor256">
-  <img alt="trevor256's artstation" width="70px" src="https://github.com/trevor256/trevor256/blob/main/artstation.svg" />
+  <img alt="trevor256's artstation" width="74px" src="https://github.com/trevor256/trevor256/blob/main/artstation.svg" />
 </a>
   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
  </div>
