@@ -1,3 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg height="512px" style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512" width="512px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="_x32_7-artstation"><g><path d="M26,365.896l38.925,67.261c7.695,15.208,23.354,25.617,41.55,25.617h258.357l-53.591-92.878H26z     M478.44,341.094L327.989,77.938c-7.785-14.664-23.265-24.713-41.099-24.713h-80.023l232.919,405.186l36.843-63.818    C478.35,391.697,495.64,367.706,478.44,341.094z M273.131,299.903L168.576,118.856L64.02,299.903H273.131z" style="fill:#0099E5;"/></g></g><g id="Layer_1"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="107.65844"
+   version="1.1"
+   viewBox="0 0 122.11309 107.65844"
+   width="122.11309"
+   xml:space="preserve"
+   id="svg8"
+   sodipodi:docname="artstation.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs12" /><sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.0058594"
+     inkscape:cx="119.64946"
+     inkscape:cy="62.566699"
+     inkscape:window-width="1444"
+     inkscape:window-height="1236"
+     inkscape:window-x="819"
+     inkscape:window-y="97"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" /><g
+     id="_x32_7-artstation"
+     transform="matrix(0.26546346,0,0,0.26546346,-6.90205,-14.129293)"><g
+       id="g4"><path
+         d="m 26,365.896 38.925,67.261 c 7.695,15.208 23.354,25.617 41.55,25.617 H 364.832 L 311.241,365.896 Z M 478.44,341.094 327.989,77.938 C 320.204,63.274 304.724,53.225 286.89,53.225 h -80.023 l 232.919,405.186 36.843,-63.818 c 1.721,-2.896 19.011,-26.887 1.811,-53.499 z M 273.131,299.903 168.576,118.856 64.02,299.903 Z"
+         style="fill:#0099e5"
+         id="path2" /></g></g><g
+     id="Layer_1"
+     transform="translate(-1.50566,-1.6337757)" /></svg>
