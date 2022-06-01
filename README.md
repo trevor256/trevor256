@@ -1,9 +1,10 @@
-<h3 align="center">other repositories & social accounts</h3>
+<h3 align="center">repositories &nbsp;&nbsp;  &  &nbsp;&nbsp; social accounts</h3>
 <div align="center">
 
 <a href="https://pypi.org/user/trevor256/">
-  <img alt="trevor256's crates" href="Rust Crates" width="70px" src="https://raw.githubusercontent.com/trevor256/trevor256/main/PyPI.svg"/>     
+  <img alt="trevor256's Python" href="Rust Crates" width="70px" src="https://raw.githubusercontent.com/trevor256/trevor256/main/PyPI.svg"/>     
 </a>  
+  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
  <a href="https://crates.io/">
   <img alt="trevor256's crates" href="Rust Crates" width="70px" src="https://raw.githubusercontent.com/trevor256/trevor256/main/Cargo.png"/>     
 </a>
