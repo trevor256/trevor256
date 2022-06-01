@@ -1,6 +1,10 @@
 <h3 align="center">other repositories & social accounts</h3>
 <div align="center">
-  
+
+  <a href="https://crates.io/">
+  <img alt="trevor256's crates" width="70px" src="https://raw.githubusercontent.com/trevor256/trevor256/main/crates.svg"/>     
+</a>
+  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.npmjs.com/~trevor256">
   <img alt="trevor256's NPM" width="70px" src="https://raw.githubusercontent.com/trevor256/trevor256/main/npm.svg"/>     
 </a>
