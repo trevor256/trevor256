@@ -3,7 +3,7 @@
 
   <a href="https://crates.io/">
     
-  <img alt="trevor256's crates" href="Rust Crates" width="70px" src="https://raw.githubusercontent.com/trevor256/trevor256/main/cargo.png"/>     
+  <img alt="trevor256's crates" href="Rust Crates" width="70px" src="https://raw.githubusercontent.com/trevor256/trevor256/main/Cargo.png"/>     
 </a>
   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.npmjs.com/~trevor256">
