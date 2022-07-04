@@ -17,10 +17,6 @@
   <img alt="trevor256's Youtube" width="60px" src="https://raw.githubusercontent.com/trevor256/trevor256/main/youtube.svg" />
 </a>
   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/trevbot256">
-  <img alt="trevor256's Youtube" width="60px" src="https://raw.githubusercontent.com/trevor256/trevor256/main/twitter.svg" />
-</a>
-  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.artstation.com/trevor256">
   <img alt="trevor256's artstation" width="64px" src="https://github.com/trevor256/trevor256/blob/main/artstation.svg" />
 </a>
