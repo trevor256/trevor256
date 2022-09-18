@@ -5,10 +5,6 @@
   <img alt="trevor256's Python" href="Rust Crates" width="60px" src="https://raw.githubusercontent.com/trevor256/trevor256/main/PyPI.svg"/>     
 </a>  
   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
- <a href="https://crates.io/">
-  <img alt="trevor256's crates" href="Rust Crates" width="60px" src="https://raw.githubusercontent.com/trevor256/trevor256/main/Cargo.png"/>     
-</a>
-  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.npmjs.com/~trevor256">
   <img alt="trevor256's NPM" width="60px" src="https://raw.githubusercontent.com/trevor256/trevor256/main/npm.svg"/>     
 </a>
@@ -16,8 +12,4 @@
 <a href="https://www.youtube.com/channel/UC7U47K09nNH-KX7-v4bd-kw">
   <img alt="trevor256's Youtube" width="60px" src="https://raw.githubusercontent.com/trevor256/trevor256/main/youtube.svg" />
 </a>
-  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://www.artstation.com/trevor256">
-  <img alt="trevor256's artstation" width="64px" src="https://github.com/trevor256/trevor256/blob/main/artstation.svg" />
-</a>
- </div>
+
