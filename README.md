@@ -12,4 +12,3 @@
 <a href="https://www.youtube.com/channel/UC7U47K09nNH-KX7-v4bd-kw">
   <img alt="trevor256's Youtube" width="60px" src="https://raw.githubusercontent.com/trevor256/trevor256/main/youtube.svg" />
 </a>
-
