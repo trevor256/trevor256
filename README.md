@@ -1,6 +1,3 @@
-dghsrthathath
-
-
 <div align="center">
   <h3>More Repositories</h3>
     <a href="https://pypi.org/user/trevor256/">
