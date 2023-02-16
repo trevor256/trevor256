@@ -1,5 +1,3 @@
-<h1 align="center">Trevor Roach</h1>
-
 <div align="center">
   <h4>More Repositories &nbsp;&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Social Accounts</h4> 
     <a href="https://pypi.org/user/trevor256/">
